@@ -4,7 +4,7 @@
  * On startup, the Pokemon Showdown Bot joins the configured rooms here,
  * and tracks their userlists. Room command and modding settings are
  * loaded on room join, if present.
- */
+ */join heartless league
 
 var Rooms = Object.create(null);
 var rooms = Rooms.rooms = new Map();
